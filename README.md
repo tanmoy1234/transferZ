@@ -2,7 +2,7 @@
 
 # transferz
 
-A simple Android Application built with :heart: using Flutter, for transferring files between devices.
+A simple remote based Android Application built with :heart: using Flutter, for transferring files between devices.
 
 Putting :star: will be highly appreciated :smile: .
 
